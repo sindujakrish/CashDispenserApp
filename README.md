@@ -15,6 +15,13 @@ Alternatively you can use the Spring Boot Maven plugin like so:
 
 *mvn spring-boot:run*
 
+Once the application is up and running, it can be accessed using the following URL: http://localhost:8080/
+
+The preconfigured username and password to access the application are as follows:
+
+**Username:** cash
+**Password:** Password1
+
 ## Automated Build
 
 The automated build for this project is achieved using maven. To build a jar file for this application:
